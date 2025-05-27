@@ -1,0 +1,16 @@
+{
+  "messageId": "1234567890",
+  "messageNumber": 1,
+  "recipient": "+27718693002",
+  "messageContent": "Test message",
+  "messageHash": "12:1:TESTMESSAGE",
+  "timestamp": "1748332824173"
+},
+{
+  "messageId": "1234567890",
+  "messageNumber": 1,
+  "recipient": "+27718693002",
+  "messageContent": "Test message",
+  "messageHash": "12:1:TESTMESSAGE",
+  "timestamp": "1748332890953"
+},
